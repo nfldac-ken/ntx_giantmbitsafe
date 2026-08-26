@@ -1,6 +1,7 @@
 
-![image of Giant MB and BBuBIOL front.](../images/Giant MB and BBuBIOL front 640.jpg)
 
+
+![Alt text](images/Giant MB and BBuBIOL front 640.jpg)
 
 > Open this page at [https://nfldac-ken.github.io/ntx_giantmbitsafe/](https://nfldac-ken.github.io/ntx_giantmbitsafe/)
 
