@@ -1,7 +1,7 @@
 
 ## NTX Giant MicroBit and Safe with BBuBIOL box controller.
 
-### Makecode for Microbit block code, and supporting documentation.
+### Makecode for Microbit block code, 3D print, and laser cut files, with supporting documentation.
 
 <img src="images/Giant%20MB%20and%20BBuBIOL%20front%20640.jpg" width="400">
 <img src="images/Safe%20and%20BBuBIOL%20Front%20640.jpg" width="400">
