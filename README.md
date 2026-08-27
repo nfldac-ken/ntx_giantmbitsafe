@@ -13,23 +13,19 @@ ___
 
 > Open this page at [https://nfldac-ken.github.io/ntx_giantmbitsafe/](https://nfldac-ken.github.io/ntx_giantmbitsafe/)
 
-## Use as Extension
 
-This repository can be added as an **extension** in MakeCode.
 
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/nfldac-ken/ntx_giantmbitsafe** and import
 
-## Edit this project
+## Use this project
 
-To edit this repository in MakeCode.
+To use this repository in MakeCode.
 
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * click on **Import** then click on **Import URL**
 * paste **https://github.com/nfldac-ken/ntx_giantmbitsafe** and click import
 
+
+___
 #### Metadata (used for search, rendering)
 
 * for PXT/microbit
