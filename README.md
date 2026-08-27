@@ -24,7 +24,7 @@ To use this repository in MakeCode.
 * click on **Import** then click on **Import URL**
 * paste **https://github.com/nfldac-ken/ntx_giantmbitsafe** and click import
 
-
+Then download to your MicroBit and have fun.
 ___
 #### Metadata (used for search, rendering)
 
