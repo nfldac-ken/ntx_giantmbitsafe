@@ -6,13 +6,12 @@
 <img src="images/Giant%20MB%20and%20BBuBIOL%20front%20640.jpg" width="400">
 <img src="images/Safe%20and%20BBuBIOL%20Front%20640.jpg" width="400">
 
-See magazine article for further details.
+
+To see the additional files go to [https://nfldac-ken.github.io/ntx_giantmbitsafe/](https://github.com/nfldac-ken/ntx_giantmbitsafe/)
+
+
+See magazine article for other details.
 ___
-
-
-
-> Open this page at [https://nfldac-ken.github.io/ntx_giantmbitsafe/](https://nfldac-ken.github.io/ntx_giantmbitsafe/)
-
 
 
 
